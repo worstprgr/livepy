@@ -16,7 +16,7 @@ on the `live.js` file.
 usage: live.py [-h] [-p PORT] html
 
 positional arguments:
-  html                  The relative or absolute path of your html file. You can omit the file extension ".html" if you want.
+  html                  The file name of your html. You can omit the file extension ".html" if you want.
 
 options:
   -h, --help            show this help message and exit

@@ -30,7 +30,7 @@ class ArgumentParser:
         description: str = 'LivePy bootstraps "live.js" into a http server, '\
                 'so it automatically reloads your browser, '\
                 'if you did any file changes.'
-        html_help: str = 'The relative or absolute path of your html file. '\
+        html_help: str = 'The file name of your html. '\
                 'You can omit the file extension ".html" if you want.'
         port_help: str = 'Custom port. [Optional] (Default: 9005)'
 
